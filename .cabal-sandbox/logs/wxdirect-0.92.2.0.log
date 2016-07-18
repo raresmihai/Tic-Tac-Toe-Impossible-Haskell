@@ -1,0 +1,19 @@
+Registering wxdirect-0.92.2.0...
+es\Desktop\x si
+0\.cabal-sandbox\x86_64-windows-ghc-7.10.3\wxdirect-0.92.2.0-DuttjnNH3Yk02jzpEuKhyl
+Installing executable(s) in C:\Users\Rares\Desktop\x si 0\.cabal-sandbox\bin
+registering wxdirect-0.92.2.0...
+Preprocessing executable 'wxdirect' for wxdirect-0.92.2.0...
+[ 1 of 12] Compiling IOExtra          ( src\IOExtra.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\IOExtra.o )
+[ 2 of 12] Compiling Types            ( src\Types.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\Types.o )
+[ 3 of 12] Compiling ParseC           ( src\ParseC.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\ParseC.o )
+[ 4 of 12] Compiling HaskellNames     ( src\HaskellNames.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\HaskellNames.o )
+[ 5 of 12] Compiling Classes          ( src\Classes.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\Classes.o )
+[ 6 of 12] Compiling DeriveTypes      ( src\DeriveTypes.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\DeriveTypes.o )
+[ 7 of 12] Compiling CompileSTC       ( src\CompileSTC.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\CompileSTC.o )
+[ 8 of 12] Compiling CompileClassInfo ( src\CompileClassInfo.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\CompileClassInfo.o )
+[ 9 of 12] Compiling CompileClassTypes ( src\CompileClassTypes.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\CompileClassTypes.o )
+[10 of 12] Compiling CompileHeader    ( src\CompileHeader.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\CompileHeader.o )
+[11 of 12] Compiling CompileClasses   ( src\CompileClasses.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\CompileClasses.o )
+[12 of 12] Compiling Main             ( src\Main.hs, dist\dist-sandbox-c7d67d19\build\wxdirect\wxdirect-tmp\Main.o )
+Linking dist/dist-sandbox-c7d67d19\build\wxdirect\wxdirect.exe ...

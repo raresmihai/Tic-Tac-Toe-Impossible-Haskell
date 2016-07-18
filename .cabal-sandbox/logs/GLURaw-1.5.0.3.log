@@ -1,0 +1,10 @@
+Registering GLURaw-1.5.0.3...
+Rares\Desktop\x si
+0\.cabal-sandbox\x86_64-windows-ghc-7.10.3\GLURaw-1.5.0.3-KSvpgKJHwH715OvwLxXZm0
+c\Graphics\Rendering\GLU\Raw\TypesInternal.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw\TypesInternal.o )
+[2 of 6] Compiling Graphics.Rendering.GLU.Raw.Callbacks ( src\Graphics\Rendering\GLU\Raw\Callbacks.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw\Callbacks.o )
+[3 of 6] Compiling Graphics.Rendering.GLU.Raw.Types ( src\Graphics\Rendering\GLU\Raw\Types.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw\Types.o )
+[4 of 6] Compiling Graphics.Rendering.GLU.Raw.Tokens ( src\Graphics\Rendering\GLU\Raw\Tokens.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw\Tokens.o )
+[5 of 6] Compiling Graphics.Rendering.GLU.Raw.Functions ( src\Graphics\Rendering\GLU\Raw\Functions.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw\Functions.o )
+[6 of 6] Compiling Graphics.Rendering.GLU.Raw ( src\Graphics\Rendering\GLU\Raw.hs, dist\dist-sandbox-c7d67d19\build\Graphics\Rendering\GLU\Raw.o )
+In-place registering GLURaw-1.5.0.3...
